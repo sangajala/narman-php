@@ -1,0 +1,85 @@
+@import url(http://fonts.googleapis.com/css?family=Droid+Sans);
+
+#file{
+    color:green;
+    padding:5px; border:1px dashed #123456;
+    background-color: #f9ffe5;
+}
+#img{ 
+    width: 23px;
+    border: none; 
+    height:21px;
+    margin-left: -12px;
+    margin-bottom: 91px;
+}
+div#filediv {
+    width: 21%;
+    float: left;
+}
+input.button.adclr {
+    width: 27%;
+    margin: 8px auto;
+    text-transform: none;
+    display: block;
+    font-size: 13px;
+}
+input#add_more {
+    margin: 0;
+    width: 27%;
+    display: block;
+    clear: both;
+    font-size: 13px;
+    text-transform: none;
+}
+.modal-body h4 {
+    border: 1px solid;
+    padding: 5px 0;
+    background-color: #F7F5F5;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+h4#myM {
+    border-bottom: 1px solid #e5e5e5;
+    border-top: 1px solid #e5e5e5;
+    padding: 10px 0;
+}
+.six div select {
+    width: 100%;
+}
+button.bb {
+    text-transform: none !important;
+    padding: 4px 13px !important;
+}
+input.button.bb {
+    text-transform: none !important;
+    padding: 4px 13px !important;
+}
+span#pimg #filediv {
+    width: 50%;
+}
+span#pimg {
+    display: block;
+}
+#pimg input#add_more {
+    display: none;
+}
+span#pimg #filediv input {
+    display: none;
+}
+.abcd{
+    text-align: center;
+}
+
+.abcd img{
+    height:100px;
+    width:100px;
+    padding: 5px;
+    border: 1px solid rgb(232, 222, 189);
+}
+b{
+    color:red;
+}
+#formget{
+    float:right; 
+
+}
